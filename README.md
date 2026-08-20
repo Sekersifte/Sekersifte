@@ -35,9 +35,3 @@ Learning.
 Breaking things.
 Fixing them.
 Repeating.
-
-## 🖥️ Terminal
-
-<p align="center">
-  <img src="./assets/terminal.svg" alt="Ali Güney terminal">
-</p>
