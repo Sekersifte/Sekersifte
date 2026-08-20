@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hey, I'm Ali Güney 👋
 
-<!--
-**Sekersifte/Sekersifte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Student developer building things that are useful, weird, and occasionally both.
 
-Here are some ideas to get you started:
+I'm **Sekersifte**, a student developer interested in **AI, Python, voice interfaces, and software engineering**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently building and experimenting with:
+
+- 🤖 **SekerAI** — my AI assistant project
+- 🎙️ Voice interaction and TTS systems
+- 🐍 Python projects and experiments
+- 🧠 AI-powered tools
+
+### What I'm working on
+
+```text
+[Sekersifte@github] ~/projects
+$ whoami
+
+Ali Güney
+Student Developer
+
+$ current_project
+
+SekerAI
+
+$ interests
+
+AI • Python • Voice • Automation • Software
+
+$ status
+
+Building.
+Learning.
+Breaking things.
+Fixing them.
+Repeating.
