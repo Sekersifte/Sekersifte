@@ -1,46 +1,101 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300">
-  <rect width="900" height="300" rx="18" fill="#0d1117"/>
+<svg width="900" height="360" viewBox="0 0 900 360"
+     xmlns="http://www.w3.org/2000/svg">
 
-  <text x="45" y="70"
+  <!-- Background -->
+  <rect width="900" height="360" rx="18" fill="#0d1117"/>
+
+  <!-- Terminal top bar -->
+  <rect width="900" height="48" rx="18" fill="#161b22"/>
+  <rect y="30" width="900" height="18" fill="#161b22"/>
+
+  <!-- Window buttons -->
+  <circle cx="25" cy="24" r="7" fill="#ff5f56"/>
+  <circle cx="48" cy="24" r="7" fill="#ffbd2e"/>
+  <circle cx="71" cy="24" r="7" fill="#27c93f"/>
+
+  <!-- Terminal title -->
+  <text x="450" y="29"
+        text-anchor="middle"
+        fill="#8b949e"
         font-family="monospace"
-        font-size="28"
-        fill="#58a6ff">
-    sekersifte@github:~$
+        font-size="14">
+    sekersifte@github: ~/projects
   </text>
 
-  <text x="45" y="115"
+  <!-- Prompt -->
+  <text x="35" y="88"
+        fill="#58a6ff"
         font-family="monospace"
-        font-size="25"
-        fill="#f0f6fc">
-    whoami
+        font-size="18">
+    $ whoami
   </text>
 
-  <text x="45" y="155"
+  <text x="35" y="118"
+        fill="#3fb950"
         font-family="monospace"
-        font-size="25"
-        fill="#7ee787">
+        font-size="20">
     Ali Güney
   </text>
 
-  <text x="45" y="200"
+  <text x="35" y="145"
+        fill="#8b949e"
         font-family="monospace"
-        font-size="25"
-        fill="#f0f6fc">
-    building SekerAI...
+        font-size="15">
+    Student Developer
   </text>
 
-  <text x="45" y="245"
+  <!-- Project -->
+  <text x="35" y="185"
+        fill="#58a6ff"
         font-family="monospace"
-        font-size="25"
-        fill="#d2a8ff">
-    voice • AI • Python • software
+        font-size="18">
+    $ current_project
   </text>
 
-  <rect x="45" y="265" width="12" height="25" fill="#58a6ff">
+  <text x="35" y="215"
+        fill="#c9d1d9"
+        font-family="monospace"
+        font-size="19">
+    SekerAI
+  </text>
+
+  <!-- Interests -->
+  <text x="35" y="255"
+        fill="#58a6ff"
+        font-family="monospace"
+        font-size="18">
+    $ interests
+  </text>
+
+  <text x="35" y="285"
+        fill="#c9a0ff"
+        font-family="monospace"
+        font-size="17">
+    Voice • AI • Python • Software
+  </text>
+
+  <!-- Status -->
+  <text x="35" y="325"
+        fill="#58a6ff"
+        font-family="monospace"
+        font-size="18">
+    $ status
+  </text>
+
+  <text x="125" y="325"
+        fill="#3fb950"
+        font-family="monospace"
+        font-size="17">
+    Building...
+  </text>
+
+  <!-- Blinking cursor -->
+  <rect x="265" y="309" width="10" height="20" fill="#58a6ff">
     <animate
       attributeName="opacity"
       values="1;0;1"
       dur="1s"
       repeatCount="indefinite"/>
   </rect>
+
 </svg>
