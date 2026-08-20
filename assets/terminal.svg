@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300">
+  <rect width="900" height="300" rx="18" fill="#0d1117"/>
+
+  <text x="45" y="70"
+        font-family="monospace"
+        font-size="28"
+        fill="#58a6ff">
+    sekersifte@github:~$
+  </text>
+
+  <text x="45" y="115"
+        font-family="monospace"
+        font-size="25"
+        fill="#f0f6fc">
+    whoami
+  </text>
+
+  <text x="45" y="155"
+        font-family="monospace"
+        font-size="25"
+        fill="#7ee787">
+    Ali Güney
+  </text>
+
+  <text x="45" y="200"
+        font-family="monospace"
+        font-size="25"
+        fill="#f0f6fc">
+    building SekerAI...
+  </text>
+
+  <text x="45" y="245"
+        font-family="monospace"
+        font-size="25"
+        fill="#d2a8ff">
+    voice • AI • Python • software
+  </text>
+
+  <rect x="45" y="265" width="12" height="25" fill="#58a6ff">
+    <animate
+      attributeName="opacity"
+      values="1;0;1"
+      dur="1s"
+      repeatCount="indefinite"/>
+  </rect>
+</svg>
